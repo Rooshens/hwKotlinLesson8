@@ -1,4 +1,4 @@
-package qr.a.rooshen.hwkotlinlesson7
+package qr.a.rooshen.hwkotlinlesson8
 
 import org.junit.Test
 
